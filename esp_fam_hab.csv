@@ -1,51 +1,51 @@
-  EspÈcies h·bito ·rvore;nome popular;fonte de dados;h·bito;status de conservaÁ„o;origem;guia;familia;Angiospermas ou Gimnospermas
-Mangifera indica L.;mangueira;V;·rv;;s;X;Anacardiaceae;Angiospermas
-Schinus terebinthifolia Raddi;aroeira-mansa;V;·rv;;n;X;Anacardiaceae;Angiospermas
-Guatteria australis A.St.-Hil.;pindaÌba;V;·rv;;n;;Annonaceae;Angiospermas
-Cordia magnoliifolia Cham.;gr„o-de-galo;V;·rv;;n;;Boraginaceae;Angiospermas
-Protium sp.;;V;·rv;;n;;Burseraceae;Angiospermas
-Cinnamodendron dinisii Schwacke;pimenteira, pau-para-tudo;V;·rv;;n;;Canellaceae;Angiospermas
-Alchornea sidifolia M¸ll.Arg.;tapi·-guaÁu;V;·rv;;n;X;Euphorbiaceae;Angiospermas
-Croton floribundus Spreng.;capixingui;V;·rv;;n;;Euphorbiaceae;Angiospermas
-Holocalyx balansae Micheli;alecrim-de- campinas;V;·rv;;c;;Fabaceae;Angiospermas
-Hymenaea courbaril L.;jatob·;V;·rv;;n;;Fabaceae;Angiospermas
-Libidibia ferrea (Mart. ex Tul.) L.P.Queiroz var. leiostachya (Benth.) L.P.Queiroz;pau-ferro;V;·rv;;c;;Fabaceae;Angiospermas
-Machaerium villosum Vogel;jacarand·- paulista;H;·rv;;n;X;Fabaceae;Angiospermas
-Paubrasilia echinata (Lam.) E.Gagnon, H.C.Lima, G.P.Lewis;pau-brasil;V;·rv;ENBR;c;X;Fabaceae;Angiospermas
-Piptadenia gonoacantha (Mart.) J.F.Macbr.;pau-jacarÈ;V;·rv;;n;X;Fabaceae;Angiospermas
-Senna macranthera (DC. ex Collad.) H.S.Irwin & Barneby;manduirana;H;·rv;;n;;Fabaceae;Angiospermas
-Senna multijuga (Rich.) H.S.Irwin & Barneby;aleluia;V;·rv;;n;;Fabaceae;Angiospermas
-Nectandra barbellata Coe-Teix.;canela-amarela;V;·rv;VUBR, VUSP;n;X;Lauraceae;Angiospermas
-Persea americana Mill.;abacateiro;V;·rv;;s;X;Lauraceae;Angiospermas
-Cariniana estrellensis (Raddi) Kuntze;jequitib·;V;·rv;;n;;Lecythidaceae;Angiospermas
-Lafoensia glyptocarpa Koehne;mirindiba-rosa;V;·rv;;c;;Lythraceae;Angiospermas
-Ceiba speciosa (A.St.-Hil.) Ravenna;paineira;V;·rv;;n;X;Malvaceae;Angiospermas
-Luehea sp.;aÁoita-cavalo;V;·rv;;n;;Malvaceae;Angiospermas
-Cedrela fissilis Vell.;cedro;V;·rv;VUBR, VUSP;n;X;Meliaceae;Angiospermas
-Artocarpus heterophyllus Lam.;jaqueira;V;·rv;;s;;Moraceae;Angiospermas
-Ficus sp.;;V;·rv;;n;;Moraceae;Angiospermas
+Esp√©cies h√°bito √°rvore;nome popular;fonte de dados;h√°bito;status de conserva√ß√£o;origem;guia;fam√≠lia;Angiospermas ou Gimnospermas
+Mangifera indica L.;mangueira;V;√°rv;;s;X;Anacardiaceae;Angiospermas
+Schinus terebinthifolia Raddi;aroeira-mansa;V;√°rv;;n;X;Anacardiaceae;Angiospermas
+Guatteria australis A.St.-Hil.;pinda√≠ba;V;√°rv;;n;;Annonaceae;Angiospermas
+Cordia magnoliifolia Cham.;gr√£o-de-galo;V;√°rv;;n;;Boraginaceae;Angiospermas
+Protium sp.;;V;√°rv;;n;;Burseraceae;Angiospermas
+Cinnamodendron dinisii Schwacke;pimenteira, pau-para-tudo;V;√°rv;;n;;Canellaceae;Angiospermas
+Alchornea sidifolia M√ºll.Arg.;tapi√°-gua√ßu;V;√°rv;;n;X;Euphorbiaceae;Angiospermas
+Croton floribundus Spreng.;capixingui;V;√°rv;;n;;Euphorbiaceae;Angiospermas
+Holocalyx balansae Micheli;alecrim-de- campinas;V;√°rv;;c;;Fabaceae;Angiospermas
+Hymenaea courbaril L.;jatob√°;V;√°rv;;n;;Fabaceae;Angiospermas
+Libidibia ferrea (Mart. ex Tul.) L.P.Queiroz var. leiostachya (Benth.) L.P.Queiroz;pau-ferro;V;√°rv;;c;;Fabaceae;Angiospermas
+Machaerium villosum Vogel;jacarand√°- paulista;H;√°rv;;n;X;Fabaceae;Angiospermas
+Paubrasilia echinata (Lam.) E.Gagnon, H.C.Lima, G.P.Lewis;pau-brasil;V;√°rv;ENBR;c;X;Fabaceae;Angiospermas
+Piptadenia gonoacantha (Mart.) J.F.Macbr.;pau-jacar√©;V;√°rv;;n;X;Fabaceae;Angiospermas
+Senna macranthera (DC. ex Collad.) H.S.Irwin & Barneby;manduirana;H;√°rv;;n;;Fabaceae;Angiospermas
+Senna multijuga (Rich.) H.S.Irwin & Barneby;aleluia;V;√°rv;;n;;Fabaceae;Angiospermas
+Nectandra barbellata Coe-Teix.;canela-amarela;V;√°rv;VUBR, VUSP;n;X;Lauraceae;Angiospermas
+Persea americana Mill.;abacateiro;V;√°rv;;s;X;Lauraceae;Angiospermas
+Cariniana estrellensis (Raddi) Kuntze;jequitib√°;V;√°rv;;n;;Lecythidaceae;Angiospermas
+Lafoensia glyptocarpa Koehne;mirindiba-rosa;V;√°rv;;c;;Lythraceae;Angiospermas
+Ceiba speciosa (A.St.-Hil.) Ravenna;paineira;V;√°rv;;n;X;Malvaceae;Angiospermas
+Luehea sp.;a√ßoita-cavalo;V;√°rv;;n;;Malvaceae;Angiospermas
+Cedrela fissilis Vell.;cedro;V;√°rv;VUBR, VUSP;n;X;Meliaceae;Angiospermas
+Artocarpus heterophyllus Lam.;jaqueira;V;√°rv;;s;;Moraceae;Angiospermas
+Ficus sp.;;V;√°rv;;n;;Moraceae;Angiospermas
 Sorocea bonplandii (Baill.) W.C.Burger, Lanj. & Wess. Boer;"cega-olho,
-espinheira- santa";V;·rv;;n;;Moraceae;Angiospermas
-Calyptranthes concinna DC.;;H;·rv;;n;;Myrtaceae;Angiospermas
-Campomanesia phaea (O.Berg) Landrum;cambuci;V;·rv;;n;X;Myrtaceae;Angiospermas
-Campomanesia sp.;guabiroba;V;·rv;;n;;Myrtaceae;Angiospermas
-Eucalyptus sp.;eucalipto;V;·rv;;c;;Myrtaceae;Angiospermas
-Eugenia pyriformis Cambess.;uvaia;H;·rv;;n;;Myrtaceae;Angiospermas
-Marlierea sp.;;V;·rv;;n;;Myrtaceae;Angiospermas
-Myrcia splendens (Sw.) DC.;cumatÈ, guamirim;V;·rv;;n;;Myrtaceae;Angiospermas
-Myrcia tomentosa (Aubl.) DC.;cabeludeira;V;·rv;;n;X;Myrtaceae;Angiospermas
-Syzygium jambos (L.) Alston;jambeiro, jambo-amarelo;V;·rv;;i;;Myrtaceae;Angiospermas
-Guapira opposita (Vell.) Reitz;maria-mole;V;·rv;;n;;Nyctaginaceae;Angiospermas
-Myrsine umbellata Mart.;capororoca;V;·rv;;n;;Primulaceae;Angiospermas
-Hovenia dulcis Thunb.;uva-japonesa;V;·rv;;i;;Rhamnaceae;Angiospermas
-Bathysa australis (A.St.-Hil.) K.Schum.;"ca·-aÁu,
-orelha-de- elefante";V;·rv;;n;;Rubiaceae;Angiospermas
-Casearia sylvestris Sw.;guaÁatonga, erva-de-lagarto;V;·rv;;n;X;Salicaceae;Angiospermas
-Cupania oblongifolia Mart.;camboat·-de- folhas-largas;V;·rv;;n;;Sapindaceae;Angiospermas
-Cupania vernalis Cambess.;"camboat·,
-arco-de- peneira";V;·rv;;n;;Sapindaceae;Angiospermas
-Talisia esculenta (Cambess.) Radlk.;pitomba;H;·rv;;c;;Sapindaceae;Angiospermas
-Solanum granulosoleprosum Dunal;cuvitinga;V;·rv;;n;X;Solanaceae;Angiospermas
-Cecropia sp.;emba˙ba;V;·rv;;n;;Urticaceae;Angiospermas
-Araucaria angustifolia (Bertol.) Kuntze;pinheiro-do- paran·;V;·rv;ENBR, ENSP;n;X;Araucariaceae;Gimnospermas
-Pinus sp.;;V;·rv;;c;;Pinaceae;Gimnospermas
+espinheira- santa";V;√°rv;;n;;Moraceae;Angiospermas
+Calyptranthes concinna DC.;;H;√°rv;;n;;Myrtaceae;Angiospermas
+Campomanesia phaea (O.Berg) Landrum;cambuci;V;√°rv;;n;X;Myrtaceae;Angiospermas
+Campomanesia sp.;guabiroba;V;√°rv;;n;;Myrtaceae;Angiospermas
+Eucalyptus sp.;eucalipto;V;√°rv;;c;;Myrtaceae;Angiospermas
+Eugenia pyriformis Cambess.;uvaia;H;√°rv;;n;;Myrtaceae;Angiospermas
+Marlierea sp.;;V;√°rv;;n;;Myrtaceae;Angiospermas
+Myrcia splendens (Sw.) DC.;cumat√©, guamirim;V;√°rv;;n;;Myrtaceae;Angiospermas
+Myrcia tomentosa (Aubl.) DC.;cabeludeira;V;√°rv;;n;X;Myrtaceae;Angiospermas
+Syzygium jambos (L.) Alston;jambeiro, jambo-amarelo;V;√°rv;;i;;Myrtaceae;Angiospermas
+Guapira opposita (Vell.) Reitz;maria-mole;V;√°rv;;n;;Nyctaginaceae;Angiospermas
+Myrsine umbellata Mart.;capororoca;V;√°rv;;n;;Primulaceae;Angiospermas
+Hovenia dulcis Thunb.;uva-japonesa;V;√°rv;;i;;Rhamnaceae;Angiospermas
+Bathysa australis (A.St.-Hil.) K.Schum.;"ca√°-a√ßu,
+orelha-de- elefante";V;√°rv;;n;;Rubiaceae;Angiospermas
+Casearia sylvestris Sw.;gua√ßatonga, erva-de-lagarto;V;√°rv;;n;X;Salicaceae;Angiospermas
+Cupania oblongifolia Mart.;camboat√°-de- folhas-largas;V;√°rv;;n;;Sapindaceae;Angiospermas
+Cupania vernalis Cambess.;"camboat√°,
+arco-de- peneira";V;√°rv;;n;;Sapindaceae;Angiospermas
+Talisia esculenta (Cambess.) Radlk.;pitomba;H;√°rv;;c;;Sapindaceae;Angiospermas
+Solanum granulosoleprosum Dunal;cuvitinga;V;√°rv;;n;X;Solanaceae;Angiospermas
+Cecropia sp.;emba√∫ba;V;√°rv;;n;;Urticaceae;Angiospermas
+Araucaria angustifolia (Bertol.) Kuntze;pinheiro-do- paran√°;V;√°rv;ENBR, ENSP;n;X;Araucariaceae;Gimnospermas
+Pinus sp.;;V;√°rv;;c;;Pinaceae;Gimnospermas
